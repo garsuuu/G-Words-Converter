@@ -3,8 +3,8 @@
 
     Author: Gary Daniel I. Erno
     Email: ernogarydaniel@gmail.com
-    Linkedin: 
-    Github:
+    Linkedin: https://www.linkedin.com/in/gary-daniel-erno-4b317a1bb/
+    Github: https://github.com/garsuuu
 
 */
 
